@@ -1,0 +1,7 @@
+"PYTHON"
+    - make a python package and publish it on PYPI
+
+"JAVASCRIPT"
+    - make a javacsript package and publish it on NPM
+
+    
